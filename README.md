@@ -23,8 +23,8 @@
     <section id="projects" class="card">
       <h2>Proyek</h2>
       <ul id="project-list">
-        <li>Proyek A — deskripsi singkat</li>
-        <li>Proyek B — deskripsi singkat</li>
+        <li>Proyek A — Elizabet adalah seorang mahasiswi semester 5 ganjil tahun 2025</li>
+        <li>Proyek B — Prodi Fisika angkatan 2023  Fi</li>
       </ul>
     </section>
 
