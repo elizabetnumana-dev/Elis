@@ -1,0 +1,10 @@
+# My Website
+
+Situs statis sederhana yang dapat dipublikasikan via GitHub Pages.
+
+## Cara menjalankan lokal
+Buka `index.html` di browser atau jalankan server lokal:
+```bash
+# Python 3
+python -m http.server 8000
+# lalu buka http://localhost:8000
